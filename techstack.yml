@@ -1,0 +1,20 @@
+repo_name: JeevanYoganand/jeevanyoganand
+report_id: 1f33073ff26f9d640e6ba63b6184dc6e
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-30T07:21:09+00:00'
+requested_by: JeevanYoganand
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/JeevanYoganand/jeevanyoganand
+  detection_source: Repo Metadata
